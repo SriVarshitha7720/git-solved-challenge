@@ -1,31 +1,35 @@
-# System Architecture
+A comprehensive CI/CD configuration management tool for enterprise deployments.
 
-## Overview
-DevOps Simulator follows a microservices architecture designed for high availability and scalability.
+## Project Status
+**Version**: 2.0.0-beta
+**Environment**: Development
+**Maintainer**: DevOps Team
 
-## Components
+## New Features (In Development)
+- Kubernetes orchestration support
+- Advanced blue-green deployment
+- Enhanced monitoring dashboard
+- OAuth2 authentication
+- Docker Compose Integration
 
-### 1. Application Server
-- **Technology**: Node.js + Express
-- **Port**: 8080
-- **Scaling**: Horizontal auto-scaling enabled
+## Features
+- Automated deployment scripts
+- Real-time monitoring
+- Configuration management
+- Backup and recovery system
+- Multi-cloud support (AWS, Azure, GCP)
+- Slack/Discord notifications
 
-### 2. Database Layer
-- **Database**: PostgreSQL 14
-- **Configuration**: Master-slave replication
-- **Backup**: Daily automated backups
+## Quick Start
+1. Clone the repository
+2. Configure environment variables
+3. Run deployment script
 
-### 3. Monitoring System
-- **Tool**: Prometheus + Grafana
-- **Metrics**: CPU, Memory, Disk, Network
-- **Alerts**: Email notifications for critical issues
+## Development Setup
+1. Install dependencies: `npm install`
+2. Configure environment variables
+3. Run in development mode: `npm run dev`
+4. Access dashboard at `http://localhost:3000`
 
-## Deployment Strategy
-- **Method**: Rolling updates
-- **Zero-downtime**: Yes
-- **Rollback**: Automated on failure
-
-## Security
-- SSL/TLS encryption
-- Database connection encryption
-- Regular security audits
+## Documentation
+See `/docs` folder for detailed documentation.
