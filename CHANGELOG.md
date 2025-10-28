@@ -1,0 +1,8 @@
+- 6486f1a: feat: Add new feature (narlasrivarshitha@gmail.com, 43 minutes ago)
+- 50e2f8d: Merge remote-tracking branch 'instructor/conflict-simulator' (narlasrivarshitha@gmail.com, 2 days ago)
+- e6c465a: Merge remote-tracking branch 'instructor/dev' (narlasrivarshitha@gmail.com, 2 days ago)
+- d3dd9b2: updating conflict-simulator (Hanu Gupta, 5 days ago)
+- 02011a5: updating dev (Hanu Gupta, 5 days ago)
+- 0312c6f: updating main (Hanu Gupta, 5 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 5 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 5 days ago)
