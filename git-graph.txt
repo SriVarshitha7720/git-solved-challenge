@@ -1,0 +1,24 @@
+* 28cb8a6 (HEAD -> main, origin/main) docs: Add changelog
+| * d2f1a1e (origin/feature/another-feature, feature/another-feature) feat: Add test feature
+| * ca54156 docs:Update README
+|/  
+* 6486f1a (tag: v1.1.0, tag: v1.0.0) feat: Add new feature
+| * bbfb334 (features/new-feature) feat: Add new feature
+|/  
+*   50e2f8d Merge remote-tracking branch 'instructor/conflict-simulator'
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   e6c465a Merge remote-tracking branch 'instructor/dev'
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+| | * e8134f7 (refs/stash) On main: local changes before merge
+| |/| 
+|/| | 
+| | * 7a8b291 index on main: 0312c6f updating main
+| |/  
+|/|   
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
